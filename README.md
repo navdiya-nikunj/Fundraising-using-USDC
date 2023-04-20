@@ -15,23 +15,27 @@ To install the project on your local machine, follow the steps below:
 - Clone the repository using the following command:
 
 ```bash
-git clone https://github.com/navdiya-nikunj/Fundraising-using-USDC.git```
+git clone https://github.com/navdiya-nikunj/Fundraising-using-USDC.git
+```
 
 - Head to project directory
 
 ```bash
-cd Demo Project```
+cd Demo Project
+```
 
 - Install the dependencies using the following command:
 
 ```bash
-npm install```
+npm install
+```
 
 
 - Run the project using the following command:
 
 ```sh
-npm run dev```
+npm run dev
+```
 
 
 ## Usage
